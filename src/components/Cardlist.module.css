@@ -1,0 +1,12 @@
+.pad {
+  margin: 2rem;
+  padding: 1rem;
+}
+
+.pad2 {
+  padding: 0.5rem 0rem;
+}
+
+.f {
+  float: right;
+}

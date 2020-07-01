@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+.title {
+  font-family: "satisfy";
+  font-weight: 900 !important;
+  font-size: 5rem;
+  margin-left: 5rem;
+  margin-top: 2rem !important;
+}
+
+.navbar {
+  background-color: #f8f3ef;
+  margin-top: 2rem !important;
+}

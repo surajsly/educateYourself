@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+.section1 {
+  padding-top: 10vmin;
+  padding-bottom: 5vmin;
+  padding-left: 5vmin;
+  padding-right: 5vmin;
+}
+
+.leftbox {
+  margin-left: 3rem;
+  margin: 5rem 2rem;
+}
+
+.leftboxtext {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.leftboxbutton {
+  text-decoration: none;
+  margin-top: 1rem !important;
+  padding: 0.5rem 2rem;
+  border: 1.5px solid #000000;
+  border-radius: 24px;
+  outline: none;
+}
+
+.leftboxbutton:hover {
+  border: 1.5px solid #ebe8e8;
+  border-radius: 24px;
+  outline: none;
+  transition: all 0.5s;
+  font-style: bold;
+  color: rebeccapurple !important;
+  background-color: #fc6f86;
+  box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+}
+
+.rightboximagewrap {
+  margin-left: 10rem;
+}
+
+.title {
+  font-family: "satisfy";
+  font-style: oblique;
+  font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px) {
+  margin-left: 0rem;
+}
