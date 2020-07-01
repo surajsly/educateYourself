@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/educateYourself/static/css/main.e4487ea5.chunk.css",
+    "main.js": "/educateYourself/static/js/main.8c9d938d.chunk.js",
+    "main.js.map": "/educateYourself/static/js/main.8c9d938d.chunk.js.map",
+    "runtime-main.js": "/educateYourself/static/js/runtime-main.c0949d28.js",
+    "runtime-main.js.map": "/educateYourself/static/js/runtime-main.c0949d28.js.map",
+    "static/js/2.c3b992e9.chunk.js": "/educateYourself/static/js/2.c3b992e9.chunk.js",
+    "static/js/2.c3b992e9.chunk.js.map": "/educateYourself/static/js/2.c3b992e9.chunk.js.map",
+    "index.html": "/educateYourself/index.html",
+    "precache-manifest.ca0936795d0d627e6e729ca0cb5c2eb2.js": "/educateYourself/precache-manifest.ca0936795d0d627e6e729ca0cb5c2eb2.js",
+    "service-worker.js": "/educateYourself/service-worker.js",
+    "static/css/main.e4487ea5.chunk.css.map": "/educateYourself/static/css/main.e4487ea5.chunk.css.map",
+    "static/js/2.c3b992e9.chunk.js.LICENSE.txt": "/educateYourself/static/js/2.c3b992e9.chunk.js.LICENSE.txt",
+    "static/media/image.jpg": "/educateYourself/static/media/image.5ec8e508.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0949d28.js",
+    "static/js/2.c3b992e9.chunk.js",
+    "static/css/main.e4487ea5.chunk.css",
+    "static/js/main.8c9d938d.chunk.js"
+  ]
+}
